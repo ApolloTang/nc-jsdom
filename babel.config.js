@@ -11,6 +11,7 @@ module.exports = (api) => {
         "modules": "commonjs"
       }
     ],
+    '@babel/preset-react',
     "@babel/preset-typescript",
   ];
 
