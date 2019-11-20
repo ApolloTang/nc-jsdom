@@ -10,7 +10,7 @@
 
 import { JSDOM } from 'jsdom'
 import jsdomGlobal from 'jsdom-global'
-import React from 'react' // this does not work for some reason but work in my react training course
+import React from 'react'
 import ReactDOM from 'react-dom'
 
 // Here is the jsdom window
